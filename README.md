@@ -1,16 +1,7 @@
 🤖 Autonomous Delivery Robot Navigation
 <div align="center">
-https://img.shields.io/badge/Python-3.7%252B-blue
-https://img.shields.io/badge/Matplotlib-Visualization-orange
-https://img.shields.io/badge/NumPy-Numerical%2520Computing-green
-https://img.shields.io/badge/A*%2520Algorithm-Path%2520Planning-red
-https://img.shields.io/badge/License-MIT-yellow
-
+    
 An intelligent autonomous delivery robot simulation with real-time visualization, A path planning, and comprehensive performance analytics*
-
-https://colab.research.google.com/assets/colab-badge.svg
-https://img.shields.io/github/stars/NawneetRaj/Autonomous_Delivery_Robot_Navigation?style=social
-https://img.shields.io/github/forks/NawneetRaj/Autonomous_Delivery_Robot_Navigation?style=social
 
 </div>
 📋 Table of Contents
