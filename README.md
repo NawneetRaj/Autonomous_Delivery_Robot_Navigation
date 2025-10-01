@@ -72,49 +72,14 @@ The robot uses **A\*** pathfinding with Manhattan distance heuristic to navigate
 ```bash
 git clone https://github.com/NawneetRaj/Autonomous_Delivery_Robot_Navigation.git
 cd Autonomous_Delivery_Robot_Navigation
-
-The simulation performs:
-
-Initial setup visualization
-
-Step-by-step navigation to pickup and delivery locations
-
-Real-time battery monitoring and charging
-
-Display of path replanning when obstacles block the path
-
-Final mission completion report
-
-Observe interactive plots showing:
-
-Environment layout
-
-Robot path and deliveries
-
-Metrics, progress, and status panels
-
-Visualization
-The simulation includes a Stage-by-Stage Visualization:
-
-Map View: Shows robot, buildings, obstacles, pickup/delivery points, and paths.
-
-Metrics Panel: Live updates for distance, battery, deliveries, and efficiency.
-
-Progress Bar: Percentage of completed tasks.
-
-Status Panel: Current position, carrying status, and step count.
-
-Path Analysis: Travel efficiency and replans.
-
-Task Info: Current task details with status.
-
+```
 
 License
 This project is open-source and released under the MIT License.
 
 Author
 Nawneet Raj
-GitHub Profile
+
 
 🚀 Build smarter delivery robots and visualize autonomous navigation with metrics in real-time!
 
