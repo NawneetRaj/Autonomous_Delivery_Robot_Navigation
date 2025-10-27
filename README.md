@@ -81,5 +81,4 @@ Author
 Nawneet Raj
 
 
-🚀 Build smarter delivery robots and visualize autonomous navigation with metrics in real-time!
 
